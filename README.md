@@ -4,7 +4,7 @@ The application allows the user to pick an activity and enter an amount of reps/
 
 ## Authors
 
-Annalise Hurst ([anhurst@berkeley.edu](mailto:your_email@berkeley.edu))
+Annalise Hurst (anhurst28@gmail.com)
 
 ## Demo Video
 
